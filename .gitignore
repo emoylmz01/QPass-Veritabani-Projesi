@@ -1,0 +1,38 @@
+# ========================
+# Flutter .gitignore
+# ========================
+kampus_etkinlik_mobil/.dart_tool/
+kampus_etkinlik_mobil/.idea/
+kampus_etkinlik_mobil/build/
+kampus_etkinlik_mobil/.flutter-plugins
+kampus_etkinlik_mobil/.flutter-plugins-dependencies
+kampus_etkinlik_mobil/.packages
+kampus_etkinlik_mobil/*.iml
+kampus_etkinlik_mobil/build_log*.txt
+kampus_etkinlik_mobil/flutter_*.png
+
+# ========================
+# C# / .NET .gitignore
+# ========================
+**/bin/
+**/obj/
+*.suo
+*.user
+*.userosscachecontents
+*.sln.docstates
+.vs/
+*.nupkg
+**/packages/
+*.rsuser
+*.sln.metaproj
+*.sln.metaproj.tmp
+
+# ========================
+# Genel
+# ========================
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+desktop.ini
